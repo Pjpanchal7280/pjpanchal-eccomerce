@@ -1,2 +1,2 @@
 # Pjpanchal-Eccomerce
-this is mhy first sitre
+this is mhy first Git Hub Site
